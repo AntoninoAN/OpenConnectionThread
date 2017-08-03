@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">w3d3ex02</string>
+    <string name="lbl_et_write_url">WRITE URL</string>
+    <string name="lbl_btn_execute">EXECUTE</string>
+</resources>
